@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camera on I Code You</title>
+    <link>https://dprimax.github.io/tags/camera/</link>
+    <description>Recent content in Camera on I Code You</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 [dprimax](https://dprimax.github.io) All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)</copyright>
+    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dprimax.github.io/tags/camera/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MacBook Pro Camera Built-in Not Working</title>
+      <link>https://dprimax.github.io/posts/macbook-pro-camera-built-in-not-working/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dprimax.github.io/posts/macbook-pro-camera-built-in-not-working/</guid>
+      <description>Open a terminal and type:
+$ sudo killall VDCAssistant  above command should fix Camera issue on Your MacBook Pro
+Source: https://discussions.apple.com/thread/4282533</description>
+    </item>
+    
+  </channel>
+</rss>

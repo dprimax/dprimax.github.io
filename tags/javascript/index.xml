@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on I Code You</title>
+    <link>https://dprimax.github.io/tags/javascript/</link>
+    <description>Recent content in Javascript on I Code You</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 [dprimax](https://dprimax.github.io) All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)</copyright>
+    <lastBuildDate>Sat, 14 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dprimax.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Check jQuery version</title>
+      <link>https://dprimax.github.io/posts/check-jquery-version-in-web-browesr/</link>
+      <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dprimax.github.io/posts/check-jquery-version-in-web-browesr/</guid>
+      <description>Run below short code inside Firebug or Chrome Developer Tools Console and shortly you will notice output like this:
+&amp;gt; jQuery.fn.jquery &amp;gt; &amp;quot;1.8.3&amp;quot;  </description>
+    </item>
+    
+  </channel>
+</rss>
