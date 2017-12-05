@@ -16,6 +16,10 @@ main {
     max-width: 750px;
 }
 
+main h2 {
+  color: #efebe9;
+}
+
 /*footer*/
 
 .copyright {
