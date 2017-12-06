@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dprimax.github.io/posts/reset-mysql-root-password-ubuntu/</loc>
+    <lastmod>2017-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dprimax.github.io/posts/macbook-pro-camera-built-in-not-working/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
   </url>
@@ -31,7 +36,7 @@
   
   <url>
     <loc>https://dprimax.github.io/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -60,8 +65,20 @@
   </url>
   
   <url>
+    <loc>https://dprimax.github.io/tags/mysql/</loc>
+    <lastmod>2017-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dprimax.github.io/tags/password/</loc>
+    <lastmod>2017-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dprimax.github.io/posts/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,8 +89,20 @@
   </url>
   
   <url>
+    <loc>https://dprimax.github.io/tags/server/</loc>
+    <lastmod>2017-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dprimax.github.io/tags/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dprimax.github.io/tags/ubuntu/</loc>
+    <lastmod>2017-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

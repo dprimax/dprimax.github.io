@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>I Code You</title>
-    <link>https://dprimax.github.io/</link>
-    <description>Recent content on I Code You</description>
+    <title>Mysql on I Code You</title>
+    <link>https://dprimax.github.io/tags/mysql/</link>
+    <description>Recent content in Mysql on I Code You</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 [dprimax](https://dprimax.github.io) All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)</copyright>
     <lastBuildDate>Wed, 06 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dprimax.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dprimax.github.io/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -32,27 +32,6 @@ mysql&amp;gt; ALTER USER &#39;root&#39;@&#39;localhost&#39; IDENTIFIED BY ‘you
 mysql&amp;gt; exit
  Kill all MySQL(s) process then restart its service
 sudo service mysql start</description>
-    </item>
-    
-    <item>
-      <title>MacBook Pro Camera Built-in Not Working</title>
-      <link>https://dprimax.github.io/posts/macbook-pro-camera-built-in-not-working/</link>
-      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dprimax.github.io/posts/macbook-pro-camera-built-in-not-working/</guid>
-      <description>Open a terminal and type:
-$ sudo killall VDCAssistant  above command should fix Camera issue on Your MacBook Pro
-Source: https://discussions.apple.com/thread/4282533</description>
-    </item>
-    
-    <item>
-      <title>Check jQuery version</title>
-      <link>https://dprimax.github.io/posts/check-jquery-version-in-web-browesr/</link>
-      <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://dprimax.github.io/posts/check-jquery-version-in-web-browesr/</guid>
-      <description>Run below short code inside Firebug or Chrome Developer Tools Console and shortly you will notice output like this:
-&amp;gt; jQuery.fn.jquery &amp;gt; &amp;quot;1.8.3&amp;quot;  </description>
     </item>
     
   </channel>

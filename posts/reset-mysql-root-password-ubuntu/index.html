@@ -4,7 +4,7 @@
          
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Problem</title>
+        <title>Reset MySQL root Password on Ubuntu 16.04</title>
         <style>
 
     html body {
@@ -60,9 +60,6 @@
 <script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
  <meta name="generator" content="Hugo 0.29" />
         
-        <link href="https://dprimax.github.io/tags/problem/index.xml" rel="alternate" type="application/rss+xml" title="I Code You" />
-        <link href="https://dprimax.github.io/tags/problem/index.xml" rel="feed" type="application/rss+xml" title="I Code You" />
-        
 
         
     </head>
@@ -75,7 +72,7 @@
 
                 <div class="navbar-header">
 
-                    <a class="navbar-brand visible-xs" href="#">Problem</a>
+                    <a class="navbar-brand visible-xs" href="#">Reset MySQL root Password on Ubuntu 16.04</a>
 
                     <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
                         <span class="icon-bar"></span>
@@ -122,9 +119,7 @@
 
 <main>
 
-    <h2 class="title">Problem</h2>
-
-     <div class="item">
+    <div class="item">
 
     
     
@@ -133,16 +128,77 @@
     
     
 
-    <h3 class="title-single"><a href="/posts/macbook-pro-camera-built-in-not-working/">MacBook Pro Camera Built-in Not Working</a></h3>
-    <h5 class="subtitle">December 5, 2017</h5>
-     <kbd class="item-tag">MacBook</kbd>  <kbd class="item-tag">Mac</kbd>  <kbd class="item-tag">Camera</kbd>  <kbd class="item-tag">Problem</kbd>  <kbd class="item-tag">Hardware</kbd> 
+    <h3 class="title-single"><a href="/posts/reset-mysql-root-password-ubuntu/">Reset MySQL root Password on Ubuntu 16.04</a></h3>
+    <h5 class="subtitle">December 6, 2017</h5>
+     <kbd class="item-tag">mysql</kbd>  <kbd class="item-tag">ubuntu</kbd>  <kbd class="item-tag">server</kbd>  <kbd class="item-tag">password</kbd> 
 
 </div>
- 
+
+
+    <br> <div class="text-justify"><ol>
+<li><p>Stop MySQL service</p>
+
+<p><code>$ sudo service mysql stop</code></p></li>
+
+<li><p>Enter to MySQL safe mode</p>
+
+<p><code>$ sudo mysqld_safe --skip-grant-tables --skip-networking &amp;</code></p></li>
+
+<li><p>Login as root</p>
+
+<p><code>$ mysql -u root</code></p></li>
+
+<li><p>Flush privileges</p>
+
+<p><code>mysql&gt; FLUSH PRIVILEGES;</code></p></li>
+
+<li><p>Change old forgotten password with Your desired one</p>
+
+<p><code>mysql&gt; ALTER USER 'root'@'localhost' IDENTIFIED BY ‘your_new_password';</code></p></li>
+
+<li><p>Exit from MySQL</p>
+
+<p><code>mysql&gt; exit</code></p></li>
+
+<li><p>Kill all MySQL(s) process then restart its service</p>
+
+<p><code>sudo service mysql start</code></p></li>
+</ol>
+</div>
+
+    
+    
+
+    
+
+    
+
+        <h4 class="page-header">Comments</h4>
+
+        <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "dprimax" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    
 
 </main>
-
-
 
         <footer>
 

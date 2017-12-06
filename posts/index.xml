@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 [dprimax](https://dprimax.github.io) All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)</copyright>
-    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dprimax.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reset MySQL root Password on Ubuntu 16.04</title>
+      <link>https://dprimax.github.io/posts/reset-mysql-root-password-ubuntu/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dprimax.github.io/posts/reset-mysql-root-password-ubuntu/</guid>
+      <description>Stop MySQL service
+$ sudo service mysql stop
+ Enter to MySQL safe mode
+$ sudo mysqld_safe --skip-grant-tables --skip-networking &amp;amp;
+ Login as root
+$ mysql -u root
+ Flush privileges
+mysql&amp;gt; FLUSH PRIVILEGES;
+ Change old forgotten password with Your desired one
+mysql&amp;gt; ALTER USER &#39;root&#39;@&#39;localhost&#39; IDENTIFIED BY ‘your_new_password&#39;;
+ Exit from MySQL
+mysql&amp;gt; exit
+ Kill all MySQL(s) process then restart its service
+sudo service mysql start</description>
+    </item>
     
     <item>
       <title>MacBook Pro Camera Built-in Not Working</title>
