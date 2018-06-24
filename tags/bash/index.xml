@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bash on I Code You</title>
+    <link>https://dprimax.github.io/tags/bash/</link>
+    <description>Recent content in Bash on I Code You</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dprimax.github.io/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Delete .DS_Store recursively</title>
+      <link>https://dprimax.github.io/posts/delete-ds-store-recursively/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dprimax.github.io/posts/delete-ds-store-recursively/</guid>
+      <description>Go to your directory
+$ cd to/my/directory
+ Find all .DS_Store files recursively and remove all
+$ find . -name &#39;.DS_Store&#39; -type f -delete
+  Credits: https://jonbellah.com/articles/recursively-remove-ds-store</description>
+    </item>
+    
+  </channel>
+</rss>
