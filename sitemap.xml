@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dprimax.github.io/posts/remove-all-git-files-recursively/</loc>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dprimax.github.io/posts/delete-ds-store-recursively/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>
   </url>
@@ -24,7 +29,7 @@
   
   <url>
     <loc>https://dprimax.github.io/tags/bash/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,8 +45,14 @@
   </url>
   
   <url>
+    <loc>https://dprimax.github.io/tags/git/</loc>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dprimax.github.io/tags/handy-script/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,7 +64,7 @@
   
   <url>
     <loc>https://dprimax.github.io/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -95,7 +106,7 @@
   
   <url>
     <loc>https://dprimax.github.io/posts/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -113,13 +124,13 @@
   
   <url>
     <loc>https://dprimax.github.io/tags/shell-script/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dprimax.github.io/tags/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
