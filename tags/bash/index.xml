@@ -20,7 +20,7 @@
       <description>Go to your directory
 $ cd to/my/directory
  Find all git related files recursively and remove all
-  find . -type d -name &amp;quot;.git&amp;quot; \ &amp;amp;&amp;amp; find . -name &amp;quot;.gitignore&amp;quot; \ &amp;amp;&amp;amp; find . -name &amp;quot;.gitmodules&amp;quot;  Credits: https://stackoverflow.com/questions/4822321/remove-all-git-files-from-a-directory</description>
+  ( find . -type d -name &amp;quot;.git&amp;quot; \ &amp;amp;&amp;amp; find . -name &amp;quot;.gitignore&amp;quot; \ &amp;amp;&amp;amp; find . -name &amp;quot;.gitmodules&amp;quot; ) | xargs rm -rf  Credits: https://stackoverflow.com/questions/4822321/remove-all-git-files-from-a-directory</description>
     </item>
     
     <item>

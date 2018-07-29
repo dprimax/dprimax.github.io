@@ -145,9 +145,9 @@
 <li><p>Find all git related files recursively and remove all</p></li>
 </ol>
 
-<pre><code>find . -type d -name &quot;.git&quot; \
-&amp;&amp; find . -name &quot;.gitignore&quot; \
-&amp;&amp; find . -name &quot;.gitmodules&quot;
+<pre><code>( find . -type d -name &quot;.git&quot; \
+  &amp;&amp; find . -name &quot;.gitignore&quot; \
+  &amp;&amp; find . -name &quot;.gitmodules&quot; ) | xargs rm -rf
 </code></pre>
 
 <p>Credits: <a href="https://stackoverflow.com/questions/4822321/remove-all-git-files-from-a-directory">https://stackoverflow.com/questions/4822321/remove-all-git-files-from-a-directory</a></p>
