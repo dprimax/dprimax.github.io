@@ -6,7 +6,7 @@
     <description>Recent content in Tags on I Code You</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dprimax.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Bash</title>
       <link>https://dprimax.github.io/tags/bash/</link>
-      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dprimax.github.io/tags/bash/</guid>
       <description></description>
@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Event</title>
+      <link>https://dprimax.github.io/tags/event/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dprimax.github.io/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Git</title>
       <link>https://dprimax.github.io/tags/git/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
@@ -41,7 +50,7 @@
     <item>
       <title>Handy Script</title>
       <link>https://dprimax.github.io/tags/handy-script/</link>
-      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dprimax.github.io/tags/handy-script/</guid>
       <description></description>
@@ -77,7 +86,7 @@
     <item>
       <title>Mac</title>
       <link>https://dprimax.github.io/tags/mac/</link>
-      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dprimax.github.io/tags/mac/</guid>
       <description></description>
@@ -89,6 +98,15 @@
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://dprimax.github.io/tags/macbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservice</title>
+      <link>https://dprimax.github.io/tags/microservice/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dprimax.github.io/tags/microservice/</guid>
       <description></description>
     </item>
     
@@ -131,9 +149,27 @@
     <item>
       <title>Shell Script</title>
       <link>https://dprimax.github.io/tags/shell-script/</link>
-      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dprimax.github.io/tags/shell-script/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker</title>
+      <link>https://dprimax.github.io/tags/speaker/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dprimax.github.io/tags/speaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startup</title>
+      <link>https://dprimax.github.io/tags/startup/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dprimax.github.io/tags/startup/</guid>
       <description></description>
     </item>
     

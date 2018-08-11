@@ -19,7 +19,7 @@
       <guid>https://dprimax.github.io/posts/macbook-pro-camera-built-in-not-working/</guid>
       <description>Open a terminal and type:
 `$ sudo killall VDCAssistant`  above command should fix Camera issue on Your MacBook Pro
-Source: https://discussions.apple.com/thread/4282533</description>
+ Credits: https://discussions.apple.com/thread/4282533</description>
     </item>
     
   </channel>

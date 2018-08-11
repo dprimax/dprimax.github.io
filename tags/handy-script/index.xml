@@ -6,13 +6,25 @@
     <description>Recent content in Handy Script on I Code You</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dprimax.github.io/tags/handy-script/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Remove all git files from a directory recursively</title>
+      <title>Find and Kill Process Locking on Mac&#39;s Specific Port</title>
+      <link>https://dprimax.github.io/posts/find-and-kill-process-locking-on-macs-specific-port/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dprimax.github.io/posts/find-and-kill-process-locking-on-macs-specific-port/</guid>
+      <description>For example we want to kill a process locking at port 8080
+ With netstat
+ $ kill -9 $(netstat -vanp tcp | grep 8080 | | grep LISTEN | awk &#39;{print $9}&#39;)  With lsof (this command may need sudo operation)
+ $ sudo kill -9 $(echo $(lsof -i tcp:8080 | awk &#39;{print $2}&#39;) | cut -d&#39; &#39; -f 2)    Credits: https://stackoverflow.com/questions/3855127</description>
+    </item>
+    
+    <item>
+      <title>Remove All git Files From a Directory Recursively</title>
       <link>https://dprimax.github.io/posts/remove-all-git-files-recursively/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
       
@@ -20,11 +32,11 @@
       <description>Go to your directory
 $ cd to/my/directory
  Find all git related files recursively and remove all
-  ( find . -type d -name &amp;quot;.git&amp;quot; \ &amp;amp;&amp;amp; find . -name &amp;quot;.gitignore&amp;quot; \ &amp;amp;&amp;amp; find . -name &amp;quot;.gitmodules&amp;quot; ) | xargs rm -rf  Credits: https://stackoverflow.com/questions/4822321/remove-all-git-files-from-a-directory</description>
+  ( find . -type d -name &amp;quot;.git&amp;quot; \ &amp;amp;&amp;amp; find . -name &amp;quot;.gitignore&amp;quot; \ &amp;amp;&amp;amp; find . -name &amp;quot;.gitmodules&amp;quot; ) | xargs rm -rf   Credits: https://stackoverflow.com/questions/4822321</description>
     </item>
     
     <item>
-      <title>Delete .DS_Store recursively</title>
+      <title>Delete .DS_Store Recursively</title>
       <link>https://dprimax.github.io/posts/delete-ds-store-recursively/</link>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
@@ -33,7 +45,7 @@ $ cd to/my/directory
 $ cd to/my/directory
  Find all .DS_Store files recursively and remove all
 $ find . -name &#39;.DS_Store&#39; -type f -delete
-  Credits: https://jonbellah.com/articles/recursively-remove-ds-store</description>
+   Credits: https://jonbellah.com/articles/recursively-remove-ds-store</description>
     </item>
     
     <item>
@@ -44,11 +56,11 @@ $ find . -name &#39;.DS_Store&#39; -type f -delete
       <guid>https://dprimax.github.io/posts/macbook-pro-camera-built-in-not-working/</guid>
       <description>Open a terminal and type:
 `$ sudo killall VDCAssistant`  above command should fix Camera issue on Your MacBook Pro
-Source: https://discussions.apple.com/thread/4282533</description>
+ Credits: https://discussions.apple.com/thread/4282533</description>
     </item>
     
     <item>
-      <title>Check jQuery version</title>
+      <title>Check jQuery Version</title>
       <link>https://dprimax.github.io/posts/check-jquery-version-in-web-browser/</link>
       <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
       

@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dprimax.github.io/posts/find-and-kill-process-locking-on-macs-specific-port/</loc>
+    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dprimax.github.io/posts/remove-all-git-files-recursively/</loc>
     <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dprimax.github.io/posts/microservice-architecture-with-java-tech-in-asia-product-development-conference-2018/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -29,7 +39,7 @@
   
   <url>
     <loc>https://dprimax.github.io/tags/bash/</loc>
-    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -45,6 +55,12 @@
   </url>
   
   <url>
+    <loc>https://dprimax.github.io/tags/event/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dprimax.github.io/tags/git/</loc>
     <lastmod>2018-07-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -52,7 +68,7 @@
   
   <url>
     <loc>https://dprimax.github.io/tags/handy-script/</loc>
-    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -64,7 +80,7 @@
   
   <url>
     <loc>https://dprimax.github.io/</loc>
-    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,13 +98,19 @@
   
   <url>
     <loc>https://dprimax.github.io/tags/mac/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dprimax.github.io/tags/macbook/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dprimax.github.io/tags/microservice/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -106,7 +128,7 @@
   
   <url>
     <loc>https://dprimax.github.io/posts/</loc>
-    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,13 +146,25 @@
   
   <url>
     <loc>https://dprimax.github.io/tags/shell-script/</loc>
-    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dprimax.github.io/tags/speaker/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dprimax.github.io/tags/startup/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dprimax.github.io/tags/</loc>
-    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,22 @@
     <description>Recent content in Mac on I Code You</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dprimax.github.io/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Find and Kill Process Locking on Mac&#39;s Specific Port</title>
+      <link>https://dprimax.github.io/posts/find-and-kill-process-locking-on-macs-specific-port/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dprimax.github.io/posts/find-and-kill-process-locking-on-macs-specific-port/</guid>
+      <description>For example we want to kill a process locking at port 8080
+ With netstat
+ $ kill -9 $(netstat -vanp tcp | grep 8080 | | grep LISTEN | awk &#39;{print $9}&#39;)  With lsof (this command may need sudo operation)
+ $ sudo kill -9 $(echo $(lsof -i tcp:8080 | awk &#39;{print $2}&#39;) | cut -d&#39; &#39; -f 2)    Credits: https://stackoverflow.com/questions/3855127</description>
+    </item>
     
     <item>
       <title>MacBook Pro Camera Built-in Not Working</title>
@@ -19,7 +31,7 @@
       <guid>https://dprimax.github.io/posts/macbook-pro-camera-built-in-not-working/</guid>
       <description>Open a terminal and type:
 `$ sudo killall VDCAssistant`  above command should fix Camera issue on Your MacBook Pro
-Source: https://discussions.apple.com/thread/4282533</description>
+ Credits: https://discussions.apple.com/thread/4282533</description>
     </item>
     
   </channel>
