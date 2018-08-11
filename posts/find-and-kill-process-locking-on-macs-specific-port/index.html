@@ -143,7 +143,7 @@
 <li><p>With <code>netstat</code></p>
 
 <ul>
-<li><code>$ kill -9 $(netstat -vanp tcp | grep 8080 | | grep LISTEN | awk '{print $9}')</code><br/><br/></li>
+<li><code>$ kill -9 $(netstat -vanp tcp | grep 8080 | grep LISTEN | awk '{print $9}')</code><br/><br/></li>
 </ul></li>
 
 <li><p>With <code>lsof</code> <em>(this command may need <code>sudo</code> operation)</em></p>

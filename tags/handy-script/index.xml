@@ -19,7 +19,7 @@
       <guid>https://dprimax.github.io/posts/find-and-kill-process-locking-on-macs-specific-port/</guid>
       <description>For example we want to kill a process locking at port 8080
  With netstat
- $ kill -9 $(netstat -vanp tcp | grep 8080 | | grep LISTEN | awk &#39;{print $9}&#39;)  With lsof (this command may need sudo operation)
+ $ kill -9 $(netstat -vanp tcp | grep 8080 | grep LISTEN | awk &#39;{print $9}&#39;)  With lsof (this command may need sudo operation)
  $ sudo kill -9 $(echo $(lsof -i tcp:8080 | awk &#39;{print $2}&#39;) | cut -d&#39; &#39; -f 2)    Credits: https://stackoverflow.com/questions/3855127</description>
     </item>
     
