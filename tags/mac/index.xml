@@ -1,37 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mac on I Code You</title>
-    <link>https://dprimax.github.io/tags/mac/</link>
-    <description>Recent content in Mac on I Code You</description>
+    <title>mac on Sal Prima</title>
+    <link>https://salprima.github.io/tags/mac/</link>
+    <description>Recent content in mac on Sal Prima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>Copyright &amp;copy; 2020 &lt;a href=&#39;https://salprima.github.io&#39;&gt;Sal Prima&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dprimax.github.io/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salprima.github.io/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Find and Kill Process Locking on Mac&#39;s Specific Port</title>
-      <link>https://dprimax.github.io/posts/find-and-kill-process-locking-on-macs-specific-port/</link>
+      <link>https://salprima.github.io/posts/2018/0811-find-and-kill-process-locking-on-macs-specific-port/</link>
       <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/find-and-kill-process-locking-on-macs-specific-port/</guid>
-      <description>For example we want to kill a process locking at port 8080
- With netstat
- $ kill -9 $(netstat -vanp tcp | grep 8080 | grep LISTEN | awk &#39;{print $9}&#39;)  With lsof (this command may need sudo operation)
- $ sudo kill -9 $(echo $(lsof -i tcp:8080 | awk &#39;{print $2}&#39;) | cut -d&#39; &#39; -f 2)    Credits: https://stackoverflow.com/questions/3855127</description>
+      <guid>https://salprima.github.io/posts/2018/0811-find-and-kill-process-locking-on-macs-specific-port/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;It happens multiple times when We running application with spesific port but the port is used and our application failed to start.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>MacBook Pro Camera Built-in Not Working</title>
-      <link>https://dprimax.github.io/posts/macbook-pro-camera-built-in-not-working/</link>
+      <link>https://salprima.github.io/posts/2017/1205-macbook-pro-camera-built-in-not-working/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/macbook-pro-camera-built-in-not-working/</guid>
-      <description>Open a terminal and type:
-`$ sudo killall VDCAssistant`  above command should fix Camera issue on Your MacBook Pro
- Credits: https://discussions.apple.com/thread/4282533</description>
+      <guid>https://salprima.github.io/posts/2017/1205-macbook-pro-camera-built-in-not-working/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;Have You ever experiencing the built-in camera on MacBook Pro intermittently not working properly ?&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,51 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shell Script on I Code You</title>
-    <link>https://dprimax.github.io/tags/shell-script/</link>
-    <description>Recent content in Shell Script on I Code You</description>
+    <title>shell-script on Sal Prima</title>
+    <link>https://salprima.github.io/tags/shell-script/</link>
+    <description>Recent content in shell-script on Sal Prima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>Copyright &amp;copy; 2020 &lt;a href=&#39;https://salprima.github.io&#39;&gt;Sal Prima&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dprimax.github.io/tags/shell-script/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salprima.github.io/tags/shell-script/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Find and Kill Process Locking on Mac&#39;s Specific Port</title>
-      <link>https://dprimax.github.io/posts/find-and-kill-process-locking-on-macs-specific-port/</link>
+      <link>https://salprima.github.io/posts/2018/0811-find-and-kill-process-locking-on-macs-specific-port/</link>
       <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/find-and-kill-process-locking-on-macs-specific-port/</guid>
-      <description>For example we want to kill a process locking at port 8080
- With netstat
- $ kill -9 $(netstat -vanp tcp | grep 8080 | grep LISTEN | awk &#39;{print $9}&#39;)  With lsof (this command may need sudo operation)
- $ sudo kill -9 $(echo $(lsof -i tcp:8080 | awk &#39;{print $2}&#39;) | cut -d&#39; &#39; -f 2)    Credits: https://stackoverflow.com/questions/3855127</description>
+      <guid>https://salprima.github.io/posts/2018/0811-find-and-kill-process-locking-on-macs-specific-port/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;It happens multiple times when We running application with spesific port but the port is used and our application failed to start.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Remove All git Files From a Directory Recursively</title>
-      <link>https://dprimax.github.io/posts/remove-all-git-files-recursively/</link>
+      <link>https://salprima.github.io/posts/2018/0729-remove-all-git-files-recursively/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/remove-all-git-files-recursively/</guid>
-      <description>Go to your directory
-$ cd to/my/directory
- Find all git related files recursively and remove all
-  ( find . -type d -name &amp;quot;.git&amp;quot; \ &amp;amp;&amp;amp; find . -name &amp;quot;.gitignore&amp;quot; \ &amp;amp;&amp;amp; find . -name &amp;quot;.gitmodules&amp;quot; ) | xargs rm -rf   Credits: https://stackoverflow.com/questions/4822321</description>
+      <guid>https://salprima.github.io/posts/2018/0729-remove-all-git-files-recursively/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;The &lt;code&gt;.git&lt;/code&gt; folder is tipically stored in the root directory of the repository, not all the sub-directories like Subversion did.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Delete .DS_Store Recursively</title>
-      <link>https://dprimax.github.io/posts/delete-ds-store-recursively/</link>
+      <link>https://salprima.github.io/posts/2018/0624-delete-ds-store-recursively/</link>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/delete-ds-store-recursively/</guid>
-      <description>Go to your directory
-$ cd to/my/directory
- Find all .DS_Store files recursively and remove all
-$ find . -name &#39;.DS_Store&#39; -type f -delete
-   Credits: https://jonbellah.com/articles/recursively-remove-ds-store</description>
+      <guid>https://salprima.github.io/posts/2018/0624-delete-ds-store-recursively/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;In the Apple macOS operating system, &lt;code&gt;.DS_Store&lt;/code&gt; is a file that stores custom attributes of its containing folder&lt;/p&gt;</description>
     </item>
     
   </channel>

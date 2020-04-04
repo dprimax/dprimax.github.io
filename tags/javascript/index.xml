@@ -1,24 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Javascript on I Code You</title>
-    <link>https://dprimax.github.io/tags/javascript/</link>
-    <description>Recent content in Javascript on I Code You</description>
+    <title>javascript on Sal Prima</title>
+    <link>https://salprima.github.io/tags/javascript/</link>
+    <description>Recent content in javascript on Sal Prima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>Copyright &amp;copy; 2020 &lt;a href=&#39;https://salprima.github.io&#39;&gt;Sal Prima&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 14 May 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dprimax.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salprima.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Check jQuery Version</title>
-      <link>https://dprimax.github.io/posts/check-jquery-version-in-web-browser/</link>
+      <link>https://salprima.github.io/posts/2016/0514-check-jquery-version-in-web-browser/</link>
       <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/check-jquery-version-in-web-browser/</guid>
-      <description>Run below short code inside Firebug or Chrome Developer Tools Console and shortly you will notice output like this:
-&amp;gt; jQuery.fn.jquery &amp;gt; &amp;quot;1.8.3&amp;quot;  </description>
+      <guid>https://salprima.github.io/posts/2016/0514-check-jquery-version-in-web-browser/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;code&gt;jQuery&lt;/code&gt; is a JavaScript Library. &lt;code&gt;jQuery&lt;/code&gt; greatly simplifies JavaScript programming. &lt;code&gt;jQuery&lt;/code&gt; is easy to learn.&lt;/p&gt;</description>
     </item>
     
   </channel>

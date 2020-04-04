@@ -1,36 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Server on I Code You</title>
-    <link>https://dprimax.github.io/tags/server/</link>
-    <description>Recent content in Server on I Code You</description>
+    <title>server on Sal Prima</title>
+    <link>https://salprima.github.io/tags/server/</link>
+    <description>Recent content in server on Sal Prima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>Copyright &amp;copy; 2020 &lt;a href=&#39;https://salprima.github.io&#39;&gt;Sal Prima&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 06 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dprimax.github.io/tags/server/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salprima.github.io/tags/server/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reset MySQL root Password on Ubuntu 16.04</title>
-      <link>https://dprimax.github.io/posts/reset-mysql-root-password-ubuntu/</link>
+      <link>https://salprima.github.io/posts/2017/1206-reset-mysql-root-password-ubuntu/</link>
       <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/reset-mysql-root-password-ubuntu/</guid>
-      <description>Stop MySQL service
-$ sudo service mysql stop
- Enter to MySQL safe mode
-$ sudo mysqld_safe --skip-grant-tables --skip-networking &amp;amp;
- Login as root
-$ mysql -u root
- Flush privileges
-mysql&amp;gt; FLUSH PRIVILEGES;
- Change old forgotten password with Your desired one
-mysql&amp;gt; ALTER USER &#39;root&#39;@&#39;localhost&#39; IDENTIFIED BY ‘your_new_password&#39;;
- Exit from MySQL
-mysql&amp;gt; exit
- Kill all MySQL(s) process then restart its service
-sudo service mysql start</description>
+      <guid>https://salprima.github.io/posts/2017/1206-reset-mysql-root-password-ubuntu/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;If You assigned a &lt;code&gt;root&lt;/code&gt; password previously but have forgotten it, You can assign a new password manually so You do not get locked.&lt;/p&gt;</description>
     </item>
     
   </channel>

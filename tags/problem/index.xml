@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Problem on I Code You</title>
-    <link>https://dprimax.github.io/tags/problem/</link>
-    <description>Recent content in Problem on I Code You</description>
+    <title>problem on Sal Prima</title>
+    <link>https://salprima.github.io/tags/problem/</link>
+    <description>Recent content in problem on Sal Prima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>Copyright &amp;copy; 2020 &lt;a href=&#39;https://salprima.github.io&#39;&gt;Sal Prima&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dprimax.github.io/tags/problem/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salprima.github.io/tags/problem/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MacBook Pro Camera Built-in Not Working</title>
-      <link>https://dprimax.github.io/posts/macbook-pro-camera-built-in-not-working/</link>
+      <link>https://salprima.github.io/posts/2017/1205-macbook-pro-camera-built-in-not-working/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/macbook-pro-camera-built-in-not-working/</guid>
-      <description>Open a terminal and type:
-`$ sudo killall VDCAssistant`  above command should fix Camera issue on Your MacBook Pro
- Credits: https://discussions.apple.com/thread/4282533</description>
+      <guid>https://salprima.github.io/posts/2017/1205-macbook-pro-camera-built-in-not-working/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;Have You ever experiencing the built-in camera on MacBook Pro intermittently not working properly ?&lt;/p&gt;</description>
     </item>
     
   </channel>

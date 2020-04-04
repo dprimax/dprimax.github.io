@@ -1,184 +1,212 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on I Code You</title>
-    <link>https://dprimax.github.io/tags/</link>
-    <description>Recent content in Tags on I Code You</description>
+    <title>Tags on Sal Prima</title>
+    <link>https://salprima.github.io/tags/</link>
+    <description>Recent content in Tags on Sal Prima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <language>en</language>
+    <copyright>Copyright &amp;copy; 2020 &lt;a href=&#39;https://salprima.github.io&#39;&gt;Sal Prima&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dprimax.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salprima.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bash</title>
-      <link>https://dprimax.github.io/tags/bash/</link>
+      <title>inspire</title>
+      <link>https://salprima.github.io/tags/inspire/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/inspire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leadership</title>
+      <link>https://salprima.github.io/tags/leadership/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>management</title>
+      <link>https://salprima.github.io/tags/management/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bash</title>
+      <link>https://salprima.github.io/tags/bash/</link>
       <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/tags/bash/</guid>
+      <guid>https://salprima.github.io/tags/bash/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Camera</title>
-      <link>https://dprimax.github.io/tags/camera/</link>
-      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <title>handy-script</title>
+      <link>https://salprima.github.io/tags/handy-script/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/tags/camera/</guid>
+      <guid>https://salprima.github.io/tags/handy-script/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Event</title>
-      <link>https://dprimax.github.io/tags/event/</link>
+      <title>mac</title>
+      <link>https://salprima.github.io/tags/mac/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>macbook</title>
+      <link>https://salprima.github.io/tags/macbook/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/macbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shell-script</title>
+      <link>https://salprima.github.io/tags/shell-script/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/shell-script/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>event</title>
+      <link>https://salprima.github.io/tags/event/</link>
       <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/tags/event/</guid>
+      <guid>https://salprima.github.io/tags/event/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Git</title>
-      <link>https://dprimax.github.io/tags/git/</link>
+      <title>microservice</title>
+      <link>https://salprima.github.io/tags/microservice/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/microservice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speaker</title>
+      <link>https://salprima.github.io/tags/speaker/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/speaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>startup</title>
+      <link>https://salprima.github.io/tags/startup/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://salprima.github.io/tags/git/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/tags/git/</guid>
+      <guid>https://salprima.github.io/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Handy Script</title>
-      <link>https://dprimax.github.io/tags/handy-script/</link>
-      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      <title>mysql</title>
+      <link>https://salprima.github.io/tags/mysql/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/tags/handy-script/</guid>
+      <guid>https://salprima.github.io/tags/mysql/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hardware</title>
-      <link>https://dprimax.github.io/tags/hardware/</link>
+      <title>password</title>
+      <link>https://salprima.github.io/tags/password/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/password/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>server</title>
+      <link>https://salprima.github.io/tags/server/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://salprima.github.io/tags/ubuntu/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>camera</title>
+      <link>https://salprima.github.io/tags/camera/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/tags/hardware/</guid>
+      <guid>https://salprima.github.io/tags/camera/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Javascript</title>
-      <link>https://dprimax.github.io/tags/javascript/</link>
+      <title>hardware</title>
+      <link>https://salprima.github.io/tags/hardware/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>problem</title>
+      <link>https://salprima.github.io/tags/problem/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://salprima.github.io/tags/javascript/</link>
       <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/tags/javascript/</guid>
+      <guid>https://salprima.github.io/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jquery</title>
-      <link>https://dprimax.github.io/tags/jquery/</link>
+      <title>jquery</title>
+      <link>https://salprima.github.io/tags/jquery/</link>
       <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/tags/jquery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mac</title>
-      <link>https://dprimax.github.io/tags/mac/</link>
-      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dprimax.github.io/tags/mac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Macbook</title>
-      <link>https://dprimax.github.io/tags/macbook/</link>
-      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dprimax.github.io/tags/macbook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microservice</title>
-      <link>https://dprimax.github.io/tags/microservice/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dprimax.github.io/tags/microservice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mysql</title>
-      <link>https://dprimax.github.io/tags/mysql/</link>
-      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dprimax.github.io/tags/mysql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Password</title>
-      <link>https://dprimax.github.io/tags/password/</link>
-      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dprimax.github.io/tags/password/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Problem</title>
-      <link>https://dprimax.github.io/tags/problem/</link>
-      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dprimax.github.io/tags/problem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Server</title>
-      <link>https://dprimax.github.io/tags/server/</link>
-      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dprimax.github.io/tags/server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shell Script</title>
-      <link>https://dprimax.github.io/tags/shell-script/</link>
-      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dprimax.github.io/tags/shell-script/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Speaker</title>
-      <link>https://dprimax.github.io/tags/speaker/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dprimax.github.io/tags/speaker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Startup</title>
-      <link>https://dprimax.github.io/tags/startup/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dprimax.github.io/tags/startup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ubuntu</title>
-      <link>https://dprimax.github.io/tags/ubuntu/</link>
-      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dprimax.github.io/tags/ubuntu/</guid>
+      <guid>https://salprima.github.io/tags/jquery/</guid>
       <description></description>
     </item>
     

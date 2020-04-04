@@ -1,25 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Event on I Code You</title>
-    <link>https://dprimax.github.io/tags/event/</link>
-    <description>Recent content in Event on I Code You</description>
+    <title>event on Sal Prima</title>
+    <link>https://salprima.github.io/tags/event/</link>
+    <description>Recent content in event on Sal Prima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>Copyright &amp;copy; 2020 &lt;a href=&#39;https://salprima.github.io&#39;&gt;Sal Prima&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 30 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dprimax.github.io/tags/event/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salprima.github.io/tags/event/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Microservice Architecture With Java - Tech in Asia Product Development Conference 2018</title>
-      <link>https://dprimax.github.io/posts/microservice-architecture-with-java-tech-in-asia-product-development-conference-2018/</link>
+      <title>[Video] Microservice Architecture With Java (Public Speaking at TIA PDC&#39;18)</title>
+      <link>https://salprima.github.io/posts/2018/0730-microservice-architecture-with-java-tech-in-asia-product-development-conference-2018/</link>
       <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/microservice-architecture-with-java-tech-in-asia-product-development-conference-2018/</guid>
-      <description>Tech in Asia&amp;rsquo;s Product Development Conference 2018 is a unique two days conference which brings together developer community, thought leaders and successful practitioners of product development to share their knowledge and provide you with practical guidance that you can start implementing right away. The event held at Assembly Hall Menara Mandiri, Jakarta 4-5 July 2018.
-
-I spoken about Microservice Architecture with Java in Bahasa Indonesia. I shared how to build application architecture using Netflix OSS stack.</description>
+      <guid>https://salprima.github.io/posts/2018/0730-microservice-architecture-with-java-tech-in-asia-product-development-conference-2018/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;sal-prima---tia-pdc-2018-speakerimages2018post0730-salprima-tiapdc2018jpg&#34;&gt;&lt;img src=&#34;https://salprima.github.io/images/2018/post/0730-salprima-tiapdc2018.jpg&#34; alt=&#34;Sal Prima - TIA PDC 2018 Speaker&#34;&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;hahahugoshortcode-s0-hbhb&#34;&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BfwbU3nVlfI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.techinasia.com&#34;&gt;Tech in Asia&lt;/a&gt; &lt;a href=&#34;https://pdc.techinasia.com&#34;&gt;Product Development Conference 2018&lt;/a&gt; is a unique two days conference which brings together developer community, thought leaders and successful practitioners of product development&lt;/p&gt;</description>
     </item>
     
   </channel>

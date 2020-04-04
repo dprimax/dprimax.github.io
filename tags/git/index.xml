@@ -1,26 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Git on I Code You</title>
-    <link>https://dprimax.github.io/tags/git/</link>
-    <description>Recent content in Git on I Code You</description>
+    <title>git on Sal Prima</title>
+    <link>https://salprima.github.io/tags/git/</link>
+    <description>Recent content in git on Sal Prima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>Copyright &amp;copy; 2020 &lt;a href=&#39;https://salprima.github.io&#39;&gt;Sal Prima&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 29 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dprimax.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salprima.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Remove All git Files From a Directory Recursively</title>
-      <link>https://dprimax.github.io/posts/remove-all-git-files-recursively/</link>
+      <link>https://salprima.github.io/posts/2018/0729-remove-all-git-files-recursively/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/remove-all-git-files-recursively/</guid>
-      <description>Go to your directory
-$ cd to/my/directory
- Find all git related files recursively and remove all
-  ( find . -type d -name &amp;quot;.git&amp;quot; \ &amp;amp;&amp;amp; find . -name &amp;quot;.gitignore&amp;quot; \ &amp;amp;&amp;amp; find . -name &amp;quot;.gitmodules&amp;quot; ) | xargs rm -rf   Credits: https://stackoverflow.com/questions/4822321</description>
+      <guid>https://salprima.github.io/posts/2018/0729-remove-all-git-files-recursively/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;The &lt;code&gt;.git&lt;/code&gt; folder is tipically stored in the root directory of the repository, not all the sub-directories like Subversion did.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,105 +1,124 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>I Code You</title>
-    <link>https://dprimax.github.io/</link>
-    <description>Recent content on I Code You</description>
+    <title>About on Sal Prima</title>
+    <link>https://salprima.github.io/</link>
+    <description>Recent content in About on Sal Prima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <language>en</language>
+    <copyright>Copyright &amp;copy; 2020 &lt;a href=&#39;https://salprima.github.io&#39;&gt;Sal Prima&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dprimax.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salprima.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Find and Kill Process Locking on Mac&#39;s Specific Port</title>
-      <link>https://dprimax.github.io/posts/find-and-kill-process-locking-on-macs-specific-port/</link>
-      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      <title>Leading in Crisis by Handry Satriago - CEO GE Indonesia (ID)</title>
+      <link>https://salprima.github.io/posts/2020/0329-leading-in-crisis/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/find-and-kill-process-locking-on-macs-specific-port/</guid>
-      <description>For example we want to kill a process locking at port 8080
- With netstat
- $ kill -9 $(netstat -vanp tcp | grep 8080 | grep LISTEN | awk &#39;{print $9}&#39;)  With lsof (this command may need sudo operation)
- $ sudo kill -9 $(echo $(lsof -i tcp:8080 | awk &#39;{print $2}&#39;) | cut -d&#39; &#39; -f 2)    Credits: https://stackoverflow.com/questions/3855127</description>
+      <guid>https://salprima.github.io/posts/2020/0329-leading-in-crisis/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;sal-prima---tia-pdc-2018-speakerimages2020post0329-caption-730x467jpg&#34;&gt;&lt;img src=&#34;https://salprima.github.io/images/2020/post/0329-caption-730x467.jpg&#34; alt=&#34;Sal Prima - TIA PDC 2018 Speaker&#34;&gt;&lt;/h2&gt;
+&lt;p&gt;Situasi dunia di tengah serbuan Virus Corona dan dampak ekonominya (sekarang dan nanti), membuat saya teringat berbagai pengalaman saya dan pelajaran dari orang-orang lain yang mengajarkan saya tentang bagaimana leader menghadapi krisis.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Microservice Architecture With Java - Tech in Asia Product Development Conference 2018</title>
-      <link>https://dprimax.github.io/posts/microservice-architecture-with-java-tech-in-asia-product-development-conference-2018/</link>
+      <title>Leader and Trust (ID)</title>
+      <link>https://salprima.github.io/posts/2019/0813-leader-and-trust/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/posts/2019/0813-leader-and-trust/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;sal-prima---tia-pdc-2018-speakerimages2019post0813-caption-730x467jpg&#34;&gt;&lt;img src=&#34;https://salprima.github.io/images/2019/post/0813-caption-730x467.jpg&#34; alt=&#34;Sal Prima - TIA PDC 2018 Speaker&#34;&gt;&lt;/h2&gt;
+&lt;p&gt;Menjadi pemimpin dalam sebuah tim tidak harus selalu mengedepankan kekuasaan dalam memberikan komando tetapi juga memberikan kepercayaan kepada anggota tim&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://salprima.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
+    </item>
+    
+    <item>
+      <title>Find and Kill Process Locking on Mac&#39;s Specific Port</title>
+      <link>https://salprima.github.io/posts/2018/0811-find-and-kill-process-locking-on-macs-specific-port/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/posts/2018/0811-find-and-kill-process-locking-on-macs-specific-port/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;It happens multiple times when We running application with spesific port but the port is used and our application failed to start.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[Video] Microservice Architecture With Java (Public Speaking at TIA PDC&#39;18)</title>
+      <link>https://salprima.github.io/posts/2018/0730-microservice-architecture-with-java-tech-in-asia-product-development-conference-2018/</link>
       <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/microservice-architecture-with-java-tech-in-asia-product-development-conference-2018/</guid>
-      <description>Tech in Asia&amp;rsquo;s Product Development Conference 2018 is a unique two days conference which brings together developer community, thought leaders and successful practitioners of product development to share their knowledge and provide you with practical guidance that you can start implementing right away. The event held at Assembly Hall Menara Mandiri, Jakarta 4-5 July 2018.
-
-I spoken about Microservice Architecture with Java in Bahasa Indonesia. I shared how to build application architecture using Netflix OSS stack.</description>
+      <guid>https://salprima.github.io/posts/2018/0730-microservice-architecture-with-java-tech-in-asia-product-development-conference-2018/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;sal-prima---tia-pdc-2018-speakerimages2018post0730-salprima-tiapdc2018jpg&#34;&gt;&lt;img src=&#34;https://salprima.github.io/images/2018/post/0730-salprima-tiapdc2018.jpg&#34; alt=&#34;Sal Prima - TIA PDC 2018 Speaker&#34;&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;hahahugoshortcode-s0-hbhb&#34;&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BfwbU3nVlfI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.techinasia.com&#34;&gt;Tech in Asia&lt;/a&gt; &lt;a href=&#34;https://pdc.techinasia.com&#34;&gt;Product Development Conference 2018&lt;/a&gt; is a unique two days conference which brings together developer community, thought leaders and successful practitioners of product development&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Remove All git Files From a Directory Recursively</title>
-      <link>https://dprimax.github.io/posts/remove-all-git-files-recursively/</link>
+      <link>https://salprima.github.io/posts/2018/0729-remove-all-git-files-recursively/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/remove-all-git-files-recursively/</guid>
-      <description>Go to your directory
-$ cd to/my/directory
- Find all git related files recursively and remove all
-  ( find . -type d -name &amp;quot;.git&amp;quot; \ &amp;amp;&amp;amp; find . -name &amp;quot;.gitignore&amp;quot; \ &amp;amp;&amp;amp; find . -name &amp;quot;.gitmodules&amp;quot; ) | xargs rm -rf   Credits: https://stackoverflow.com/questions/4822321</description>
+      <guid>https://salprima.github.io/posts/2018/0729-remove-all-git-files-recursively/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;The &lt;code&gt;.git&lt;/code&gt; folder is tipically stored in the root directory of the repository, not all the sub-directories like Subversion did.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Delete .DS_Store Recursively</title>
-      <link>https://dprimax.github.io/posts/delete-ds-store-recursively/</link>
+      <link>https://salprima.github.io/posts/2018/0624-delete-ds-store-recursively/</link>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/delete-ds-store-recursively/</guid>
-      <description>Go to your directory
-$ cd to/my/directory
- Find all .DS_Store files recursively and remove all
-$ find . -name &#39;.DS_Store&#39; -type f -delete
-   Credits: https://jonbellah.com/articles/recursively-remove-ds-store</description>
+      <guid>https://salprima.github.io/posts/2018/0624-delete-ds-store-recursively/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;In the Apple macOS operating system, &lt;code&gt;.DS_Store&lt;/code&gt; is a file that stores custom attributes of its containing folder&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Reset MySQL root Password on Ubuntu 16.04</title>
-      <link>https://dprimax.github.io/posts/reset-mysql-root-password-ubuntu/</link>
+      <link>https://salprima.github.io/posts/2017/1206-reset-mysql-root-password-ubuntu/</link>
       <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/reset-mysql-root-password-ubuntu/</guid>
-      <description>Stop MySQL service
-$ sudo service mysql stop
- Enter to MySQL safe mode
-$ sudo mysqld_safe --skip-grant-tables --skip-networking &amp;amp;
- Login as root
-$ mysql -u root
- Flush privileges
-mysql&amp;gt; FLUSH PRIVILEGES;
- Change old forgotten password with Your desired one
-mysql&amp;gt; ALTER USER &#39;root&#39;@&#39;localhost&#39; IDENTIFIED BY ‘your_new_password&#39;;
- Exit from MySQL
-mysql&amp;gt; exit
- Kill all MySQL(s) process then restart its service
-sudo service mysql start</description>
+      <guid>https://salprima.github.io/posts/2017/1206-reset-mysql-root-password-ubuntu/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;If You assigned a &lt;code&gt;root&lt;/code&gt; password previously but have forgotten it, You can assign a new password manually so You do not get locked.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>MacBook Pro Camera Built-in Not Working</title>
-      <link>https://dprimax.github.io/posts/macbook-pro-camera-built-in-not-working/</link>
+      <link>https://salprima.github.io/posts/2017/1205-macbook-pro-camera-built-in-not-working/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/macbook-pro-camera-built-in-not-working/</guid>
-      <description>Open a terminal and type:
-`$ sudo killall VDCAssistant`  above command should fix Camera issue on Your MacBook Pro
- Credits: https://discussions.apple.com/thread/4282533</description>
+      <guid>https://salprima.github.io/posts/2017/1205-macbook-pro-camera-built-in-not-working/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;Have You ever experiencing the built-in camera on MacBook Pro intermittently not working properly ?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Check jQuery Version</title>
-      <link>https://dprimax.github.io/posts/check-jquery-version-in-web-browser/</link>
+      <link>https://salprima.github.io/posts/2016/0514-check-jquery-version-in-web-browser/</link>
       <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dprimax.github.io/posts/check-jquery-version-in-web-browser/</guid>
-      <description>Run below short code inside Firebug or Chrome Developer Tools Console and shortly you will notice output like this:
-&amp;gt; jQuery.fn.jquery &amp;gt; &amp;quot;1.8.3&amp;quot;  </description>
+      <guid>https://salprima.github.io/posts/2016/0514-check-jquery-version-in-web-browser/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;code&gt;jQuery&lt;/code&gt; is a JavaScript Library. &lt;code&gt;jQuery&lt;/code&gt; greatly simplifies JavaScript programming. &lt;code&gt;jQuery&lt;/code&gt; is easy to learn.&lt;/p&gt;</description>
     </item>
     
   </channel>

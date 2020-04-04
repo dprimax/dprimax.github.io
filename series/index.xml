@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Sal Prima</title>
+    <link>https://salprima.github.io/series/</link>
+    <description>Recent content in Series on Sal Prima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright &amp;copy; 2020 &lt;a href=&#39;https://salprima.github.io&#39;&gt;Sal Prima&lt;/a&gt;</copyright>
+    
+	<atom:link href="https://salprima.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
