@@ -13,12 +13,32 @@
   </url>
   
   <url>
+    <loc>https://salprima.github.io/categories/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://salprima.github.io/tags/company/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://salprima.github.io/tags/covid19/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://salprima.github.io/tags/inspire/</loc>
     <lastmod>2020-03-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://salprima.github.io/tags/leadership/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://salprima.github.io/categories/leadership/</loc>
     <lastmod>2020-03-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,12 +53,27 @@
   </url>
   
   <url>
+    <loc>https://salprima.github.io/tags/organization/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://salprima.github.io/posts/</loc>
     <lastmod>2020-03-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://salprima.github.io/tags/startup/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://salprima.github.io/tags/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://salprima.github.io/tags/team/</loc>
     <lastmod>2020-03-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,7 +93,17 @@
   </url>
   
   <url>
+    <loc>https://salprima.github.io/contact/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://salprima.github.io/tags/bash/</loc>
+    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://salprima.github.io/categories/coding/</loc>
     <lastmod>2018-08-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,11 +153,6 @@
   </url>
   
   <url>
-    <loc>https://salprima.github.io/tags/startup/</loc>
-    <lastmod>2018-07-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://salprima.github.io/tags/git/</loc>
     <lastmod>2018-07-29T00:00:00+00:00</lastmod>
   </url>
@@ -128,12 +168,12 @@
   </url>
   
   <url>
-    <loc>https://salprima.github.io/tags/mysql/</loc>
+    <loc>https://salprima.github.io/tags/linux/</loc>
     <lastmod>2017-12-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://salprima.github.io/tags/password/</loc>
+    <loc>https://salprima.github.io/tags/mysql/</loc>
     <lastmod>2017-12-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,6 +218,11 @@
   </url>
   
   <url>
+    <loc>https://salprima.github.io/tags/code/</loc>
+    <lastmod>2016-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://salprima.github.io/tags/javascript/</loc>
     <lastmod>2016-05-14T00:00:00+00:00</lastmod>
   </url>
@@ -188,7 +233,8 @@
   </url>
   
   <url>
-    <loc>https://salprima.github.io/categories/</loc>
+    <loc>https://salprima.github.io/tags/tutorial/</loc>
+    <lastmod>2016-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>

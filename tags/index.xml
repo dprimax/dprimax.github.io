@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>company</title>
+      <link>https://salprima.github.io/tags/company/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/company/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid19</title>
+      <link>https://salprima.github.io/tags/covid19/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/covid19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>inspire</title>
       <link>https://salprima.github.io/tags/inspire/</link>
       <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
@@ -36,6 +54,33 @@
       <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://salprima.github.io/tags/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>organization</title>
+      <link>https://salprima.github.io/tags/organization/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/organization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>startup</title>
+      <link>https://salprima.github.io/tags/startup/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>team</title>
+      <link>https://salprima.github.io/tags/team/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/team/</guid>
       <description></description>
     </item>
     
@@ -112,15 +157,6 @@
     </item>
     
     <item>
-      <title>startup</title>
-      <link>https://salprima.github.io/tags/startup/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://salprima.github.io/tags/startup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>git</title>
       <link>https://salprima.github.io/tags/git/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
@@ -130,20 +166,20 @@
     </item>
     
     <item>
+      <title>linux</title>
+      <link>https://salprima.github.io/tags/linux/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>mysql</title>
       <link>https://salprima.github.io/tags/mysql/</link>
       <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://salprima.github.io/tags/mysql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>password</title>
-      <link>https://salprima.github.io/tags/password/</link>
-      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://salprima.github.io/tags/password/</guid>
       <description></description>
     </item>
     
@@ -193,6 +229,15 @@
     </item>
     
     <item>
+      <title>code</title>
+      <link>https://salprima.github.io/tags/code/</link>
+      <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>javascript</title>
       <link>https://salprima.github.io/tags/javascript/</link>
       <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
@@ -207,6 +252,15 @@
       <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://salprima.github.io/tags/jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://salprima.github.io/tags/tutorial/</link>
+      <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/tags/tutorial/</guid>
       <description></description>
     </item>
     

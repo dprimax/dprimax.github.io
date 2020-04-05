@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright &amp;copy; 2020 &lt;a href=&#39;https://salprima.github.io&#39;&gt;Sal Prima&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 30 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://salprima.github.io/tags/startup/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Leading in Crisis by Handry Satriago - CEO GE Indonesia (ID)</title>
+      <link>https://salprima.github.io/posts/2020/0329-leading-in-crisis/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/posts/2020/0329-leading-in-crisis/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;Situasi dunia di tengah serbuan Virus Corona dan dampak ekonominya (sekarang dan nanti), membuat saya teringat berbagai pengalaman saya dan pelajaran dari orang-orang lain yang mengajarkan saya tentang bagaimana leader menghadapi krisis.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>[Video] Microservice Architecture With Java (Public Speaking at TIA PDC&#39;18)</title>
@@ -19,13 +29,7 @@
       
       <guid>https://salprima.github.io/posts/2018/0730-microservice-architecture-with-java-tech-in-asia-product-development-conference-2018/</guid>
       <description>&lt;hr&gt;
-&lt;h2 id=&#34;sal-prima---tia-pdc-2018-speakerimages2018post0730-salprima-tiapdc2018jpg&#34;&gt;&lt;img src=&#34;https://salprima.github.io/images/2018/post/0730-salprima-tiapdc2018.jpg&#34; alt=&#34;Sal Prima - TIA PDC 2018 Speaker&#34;&gt;&lt;/h2&gt;
-&lt;h2 id=&#34;hahahugoshortcode-s0-hbhb&#34;&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/BfwbU3nVlfI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.techinasia.com&#34;&gt;Tech in Asia&lt;/a&gt; &lt;a href=&#34;https://pdc.techinasia.com&#34;&gt;Product Development Conference 2018&lt;/a&gt; is a unique two days conference which brings together developer community, thought leaders and successful practitioners of product development&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.techinasia.com&#34;&gt;Tech in Asia&lt;/a&gt; &lt;a href=&#34;https://pdc.techinasia.com&#34;&gt;Product Development Conference 2018&lt;/a&gt; is a unique two days conference which brings together developer community, thought leaders and successful practitioners of product development.&lt;/p&gt;</description>
     </item>
     
   </channel>

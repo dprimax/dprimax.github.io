@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding on Sal Prima</title>
+    <link>https://salprima.github.io/categories/coding/</link>
+    <description>Recent content in coding on Sal Prima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright &amp;copy; 2020 &lt;a href=&#39;https://salprima.github.io&#39;&gt;Sal Prima&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://salprima.github.io/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Find and Kill Process Locking on Mac&#39;s Specific Port</title>
+      <link>https://salprima.github.io/posts/2018/0811-find-and-kill-process-locking-on-macs-specific-port/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/posts/2018/0811-find-and-kill-process-locking-on-macs-specific-port/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;It happens multiple times when We running application with spesific port but the port is used and our application failed to start.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[Video] Microservice Architecture With Java (Public Speaking at TIA PDC&#39;18)</title>
+      <link>https://salprima.github.io/posts/2018/0730-microservice-architecture-with-java-tech-in-asia-product-development-conference-2018/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/posts/2018/0730-microservice-architecture-with-java-tech-in-asia-product-development-conference-2018/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.techinasia.com&#34;&gt;Tech in Asia&lt;/a&gt; &lt;a href=&#34;https://pdc.techinasia.com&#34;&gt;Product Development Conference 2018&lt;/a&gt; is a unique two days conference which brings together developer community, thought leaders and successful practitioners of product development.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Remove All git Files From a Directory Recursively</title>
+      <link>https://salprima.github.io/posts/2018/0729-remove-all-git-files-recursively/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/posts/2018/0729-remove-all-git-files-recursively/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;The &lt;code&gt;.git&lt;/code&gt; folder is tipically stored in the root directory of the repository, not all the sub-directories like Subversion did.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delete .DS_Store Recursively</title>
+      <link>https://salprima.github.io/posts/2018/0624-delete-ds-store-recursively/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/posts/2018/0624-delete-ds-store-recursively/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;In the Apple macOS operating system, &lt;code&gt;.DS_Store&lt;/code&gt; is a file that stores custom attributes of its containing folder&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reset MySQL root Password on Ubuntu 16.04</title>
+      <link>https://salprima.github.io/posts/2017/1206-reset-mysql-root-password-ubuntu/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/posts/2017/1206-reset-mysql-root-password-ubuntu/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;If You assigned a &lt;code&gt;root&lt;/code&gt; password previously but have forgotten it, You can assign a new password manually so You do not get locked.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MacBook Pro Camera Built-in Not Working</title>
+      <link>https://salprima.github.io/posts/2017/1205-macbook-pro-camera-built-in-not-working/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/posts/2017/1205-macbook-pro-camera-built-in-not-working/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;Have You ever experiencing the built-in camera on MacBook Pro intermittently not working properly ?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Check jQuery Version</title>
+      <link>https://salprima.github.io/posts/2016/0514-check-jquery-version-in-web-browser/</link>
+      <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/posts/2016/0514-check-jquery-version-in-web-browser/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;code&gt;jQuery&lt;/code&gt; is a JavaScript Library. &lt;code&gt;jQuery&lt;/code&gt; greatly simplifies JavaScript programming. &lt;code&gt;jQuery&lt;/code&gt; is easy to learn.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -42,5 +42,15 @@
 &lt;p&gt;In the Apple macOS operating system, &lt;code&gt;.DS_Store&lt;/code&gt; is a file that stores custom attributes of its containing folder&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Reset MySQL root Password on Ubuntu 16.04</title>
+      <link>https://salprima.github.io/posts/2017/1206-reset-mysql-root-password-ubuntu/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/posts/2017/1206-reset-mysql-root-password-ubuntu/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;If You assigned a &lt;code&gt;root&lt;/code&gt; password previously but have forgotten it, You can assign a new password manually so You do not get locked.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

@@ -23,6 +23,16 @@
     </item>
     
     <item>
+      <title>Delete .DS_Store Recursively</title>
+      <link>https://salprima.github.io/posts/2018/0624-delete-ds-store-recursively/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://salprima.github.io/posts/2018/0624-delete-ds-store-recursively/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;In the Apple macOS operating system, &lt;code&gt;.DS_Store&lt;/code&gt; is a file that stores custom attributes of its containing folder&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>MacBook Pro Camera Built-in Not Working</title>
       <link>https://salprima.github.io/posts/2017/1205-macbook-pro-camera-built-in-not-working/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
